@@ -1,3 +1,12 @@
+> This project has two homes.
+> It is ok to work in github, still, for a better decentralized web
+> please consider contributing (issues, PR, etc...) throught:
+>
+> https://gitlab.esy.fun/yogsototh/freactive
+
+---
+
+
 # freactive
 *pronounced "f-reactive" for functional reactive - name subject to change. This library should be considered experimental - it has not been widely tested.*
 
